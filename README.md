@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Diego1Hernandez/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Diego1Hernandez/osTicket---Ticket-Lifecycle-Intake-Through-Resolution.git)
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machine in Azure]
+  - [Creating Virtual Machine in Azure](https://github.com/Diego1Hernandez/Creating-a-Virtual-Machine-in-Azure.)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Diego1Hernandez/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Diego1Hernandez/azure-network-protocols)
   
